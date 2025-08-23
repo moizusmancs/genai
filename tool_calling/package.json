@@ -11,6 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@tavily/core": "^0.5.11",
     "grok-sdk": "^0.0.1-security",
     "groq-sdk": "^0.30.0"
   }
